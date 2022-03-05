@@ -1,1 +1,1 @@
-# vueJS-random-user-generator
+# simpleVue-With-RandomUserAPI
